@@ -1,0 +1,5 @@
+D:\visual studio 2012 Projects\InwellcomeInterview Questions\Test1\Test1\bin\Debug\Test1.exe.config
+D:\visual studio 2012 Projects\InwellcomeInterview Questions\Test1\Test1\bin\Debug\Test1.exe
+D:\visual studio 2012 Projects\InwellcomeInterview Questions\Test1\Test1\bin\Debug\Test1.pdb
+D:\visual studio 2012 Projects\InwellcomeInterview Questions\Test1\Test1\obj\Debug\Test1.exe
+D:\visual studio 2012 Projects\InwellcomeInterview Questions\Test1\Test1\obj\Debug\Test1.pdb
